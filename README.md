@@ -1,0 +1,2 @@
+# Stocket-Market-Prediction-using-LSTM-Linear-Regression-and-KNN
+This project focuses on predicting Indian stock market indices using advanced machine learning techniques such as Long Short-Term Memory (LSTM), Linear Regression, and K-Nearest Neighbors (KNN). It explores different approaches to financial forecasting by leveraging historical stock data and comparing the performance of multiple models.
