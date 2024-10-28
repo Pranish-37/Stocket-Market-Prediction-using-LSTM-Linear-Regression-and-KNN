@@ -16,4 +16,5 @@ This project aims to predict Indian stock market indices using various machine l
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone [<repository_url>](https://github.com/Pranish-37/Stocket-Market-Prediction-using-LSTM-Linear-Regression-and-KNN)
+   git clone https://github.com/Pranish-37/Stocket-Market-Prediction-using-LSTM-Linear-Regression-and-KNN
+   
